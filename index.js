@@ -376,7 +376,7 @@ app.get('/form/metadata', async (req, res) => {
           value: currentDate, // Set initial value to current date
         },
         {
-          name: "Kilóméter",
+          name: "Kilométer",
           type: "single_line_text",
           id: "Distance_SL",
           is_required: false,
